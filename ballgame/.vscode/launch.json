@@ -1,0 +1,9 @@
+{
+    "configurations": [{
+        "type": "java",
+        "name": "CodeLens (Launch) - BallGame",
+        "request": "launch",
+        "mainClass": "BallGame",
+        "projectName": "Java_72da403b"
+    }]
+}
